@@ -4,7 +4,6 @@
   "main": "./src/backbone-eventbroker.js",
   "ignore": [
     "**/.*",
-    "dist",
     "build",
     "package.json",
     "spec",
